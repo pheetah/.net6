@@ -1,0 +1,6 @@
+2022-07-14 22:03:17.051 +03:00 [INF] Now listening on: https://localhost:7183
+2022-07-14 22:03:17.100 +03:00 [INF] Now listening on: http://localhost:5092
+2022-07-14 22:03:17.105 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-07-14 22:03:17.106 +03:00 [INF] Hosting environment: Development
+2022-07-14 22:03:17.107 +03:00 [INF] Content root path: C:\Users\Fatih\NETCore\.net6\
+2022-07-14 22:03:23.094 +03:00 [INF] Application is shutting down...
