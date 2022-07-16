@@ -1,0 +1,2 @@
+2022-07-17 00:40:06.859 +03:00 [ERR] An error occurred using the connection to database '' on server 'localhost:3305'.
+2022-07-17 00:43:20.800 +03:00 [ERR] An error occurred using the connection to database '' on server 'localhost:3305'.
